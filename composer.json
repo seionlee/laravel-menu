@@ -22,7 +22,7 @@
         "illuminate/config": "^9.0|^10.0",
         "illuminate/support": "^9.0|^10.0",
         "illuminate/view": "^9.0|^10.0",
-        "laravelcollective/html": "^6.3"
+        "konekt/html:"^6.5"
    },
    "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.12",
